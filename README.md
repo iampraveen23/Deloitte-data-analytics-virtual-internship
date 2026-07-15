@@ -69,7 +69,7 @@ Analyze gender pay equality data and develop a classification system using Micro
 - Data Classification
 - Analytical Thinking
 
-===================================================================================================
+==========================================================================================
 
 # 📂 Repository Structure
 
