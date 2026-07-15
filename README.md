@@ -33,8 +33,8 @@ The client wanted to:
 - Dashboard Development
 - KPI Reporting
 - Business Intelligence
-- 
-===============================================================================================================
+
+=============================================================================================
 
 # 📊 Task 1 – Interactive Tableau Dashboard
 
@@ -69,7 +69,7 @@ Analyze gender pay equality data and develop a classification system using Micro
 - Data Classification
 - Analytical Thinking
 
-======================================================================================================================
+===================================================================================================
 
 # 📂 Repository Structure
 
@@ -87,7 +87,7 @@ Analyze gender pay equality data and develop a classification system using Micro
 ## Task-2
 └── Excel Classification Solution
 
-======================================================================================================================
+=================================================================================================
 
 ### 🎓 Skills Gained
 
