@@ -5,7 +5,7 @@ This repository contains my solutions for the **Deloitte Australia Data Analytic
 
 The project involved solving real-world business problems using **Tableau** and **Microsoft Excel** by analyzing business data and presenting actionable insights through dashboards and data classification.
 
-## 🎯 Client Requirements
+# 🎯 Client Requirements
 
 # 📌 Task 1 – Tableau Dashboard
 
@@ -34,7 +34,7 @@ The client wanted to:
 - KPI Reporting
 - Business Intelligence
 
-=============================================================================================
+
 
 # 📊 Task 1 – Interactive Tableau Dashboard
 
@@ -69,7 +69,7 @@ Analyze gender pay equality data and develop a classification system using Micro
 - Data Classification
 - Analytical Thinking
 
-==========================================================================================
+
 
 # 📂 Repository Structure
 
@@ -87,7 +87,7 @@ Analyze gender pay equality data and develop a classification system using Micro
 ## Task-2
 └── Excel Classification Solution
 
-=================================================================================================
+
 
 ### 🎓 Skills Gained
 
